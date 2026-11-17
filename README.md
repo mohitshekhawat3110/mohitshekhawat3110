@@ -489,14 +489,23 @@ Worked on web application development, backend engineering, database integration
 
 # 10. CONTRIBUTION SNAKE
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mohitshekhawat3110/mohitshekhawat3110/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mohitshekhawat3110/mohitshekhawat3110/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mohitshekhawat3110/mohitshekhawat3110/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/mohitshekhawat3110/mohitshekhawat3110/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
 # 11. CURRENT FOCUS
 
 ```yaml
