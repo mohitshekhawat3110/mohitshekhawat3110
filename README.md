@@ -68,27 +68,42 @@ I enjoy working across the entire engineering lifecycle — from architecture an
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="45"/>
 </p>
+
+**Python** &nbsp; **Java** &nbsp; **JavaScript** 
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="45"/>
 </p>
+
+**Next.js** &nbsp; **React** &nbsp; **HTML5** &nbsp; **CSS3** 
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=django&theme=dark" height="45"/>
 </p>
+
+**FastAPI** &nbsp; **Django** 
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="45"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="45"/>
 </p>
+
+**MySQL** &nbsp; **MongoDB** &nbsp; **Microsoft SQL Server**
 
 ### AI / ML & Generative AI
 
@@ -117,13 +132,21 @@ I enjoy working across the entire engineering lifecycle — from architecture an
 ### Security, Architecture & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
-<img src="https://img.shields.io/badge/RBAC-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Tenant_Architecture-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/bcrypt-312E81?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="45"/>
 </p>
 
+**GitHub** &nbsp; **VS Code** &nbsp; **Postman** 
+
+<br/>
+
+<p>
+<img src="https://img.shields.io/badge/RBAC-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Tenant_Architecture-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/bcrypt-312E81?style=for-the-badge"/>
+</p>
 ---
 
 # 03. AI / ML ENGINEERING
