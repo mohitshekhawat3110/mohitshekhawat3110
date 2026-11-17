@@ -1,258 +1,512 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mohit Shekhawat, AI/ML Engineer" width="100%" />
-
-<br/><br/>
-
-<a href="mailto:mohitshekhawat3110@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mohitshekhawat3110"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Ahmedabad%2C%20India-30363D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20to%20Opportunities-2EA043?style=for-the-badge" alt="Open to opportunities" />
-
-<br/><br/>
-
-I design and build privacy-first AI platforms, multi-tenant SaaS products, and real-time industrial IoT solutions.<br/>
-My work sits where enterprise operational data meets conversational intelligence.
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">About</h2>
-
-<table align="center">
-  <tr>
-    <td><b>Role</b></td>
-    <td>Implementation Engineer at Dynamic Smart Edge</td>
-  </tr>
-  <tr>
-    <td><b>Specialization</b></td>
-    <td>Conversational &amp; Reasoning AI with LangChain and LangGraph</td>
-  </tr>
-  <tr>
-    <td><b>Flagship Work</b></td>
-    <td>Sole architect of a privacy-first, multi-tenant SaaS AI platform for large industrial enterprises</td>
-  </tr>
-  <tr>
-    <td><b>Industrial IoT</b></td>
-    <td>N3uron deployments with OPC UA, MQTT, Modbus and REST integrations</td>
-  </tr>
-  <tr>
-    <td><b>Experience</b></td>
-    <td>Deep Learning, NLP, Computer Vision and Generative AI</td>
-  </tr>
-  <tr>
-    <td><b>Education</b></td>
-    <td>MCA, Lovely Professional University (CGPA 8.09)</td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">Focus &amp; Learning</h2>
-
-<table align="center">
-  <tr>
-    <th align="left" width="50%">Current Focus</th>
-    <th align="left" width="50%">Currently Learning</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>Conversational AI over enterprise operational data</li>
-        <li>LLM and RAG systems (OpenAI and Anthropic APIs)</li>
-        <li>Multi-agent reasoning workflows with LangGraph</li>
-        <li>Industrial IoT: real-time dashboards, historian, redundancy</li>
-        <li>Secure multi-tenant SaaS architecture (RBAC, audit logging)</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Agentic AI: multi-agent workflows, tool calling and planning</li>
-        <li>Model Context Protocol (MCP)</li>
-        <li>AWS: EC2, S3, Lambda, IAM, RDS and Amazon Bedrock</li>
-        <li>LLM Evaluation and Observability</li>
-        <li>Vector Databases and Advanced RAG</li>
-        <li>Docker and CI/CD Pipelines</li>
-        <li>Scalable System Design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">Tech Stack</h2>
-
-<table align="center">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/RAG-0A66C2?style=flat-square" alt="RAG" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square" alt="REST APIs" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Industrial IoT</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/N3uron-0A66C2?style=flat-square" alt="N3uron" />
-      <img src="https://img.shields.io/badge/ThingsBoard-305680?style=flat-square" alt="ThingsBoard" />
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-      <img src="https://img.shields.io/badge/Modbus-555555?style=flat-square" alt="Modbus" />
-      <img src="https://img.shields.io/badge/OPC%20UA-0078D4?style=flat-square" alt="OPC UA" />
-      <img src="https://img.shields.io/badge/Edge%20Computing-30363D?style=flat-square" alt="Edge Computing" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Security &amp; Architecture</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Multi--tenant%20SaaS-30363D?style=flat-square" alt="Multi-tenant SaaS" />
-      <img src="https://img.shields.io/badge/RBAC-30363D?style=flat-square" alt="RBAC" />
-      <img src="https://img.shields.io/badge/Tenant%20Isolation-30363D?style=flat-square" alt="Tenant Isolation" />
-      <img src="https://img.shields.io/badge/bcrypt-30363D?style=flat-square" alt="bcrypt" />
-      <img src="https://img.shields.io/badge/Audit%20Logging-30363D?style=flat-square" alt="Audit Logging" />
-    </td>
-  </tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">Featured Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090F,40:312E81,75:6D28D9,100:09090F&text=MOHIT%20SHEKHAWAT&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20SOFTWARE%20ENGINEER%20%7C%20IIoT&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="assets/project-conversational-ai.svg" width="100%" alt="Conversational and Reasoning AI Platform" />
-
-Privacy-first platform that lets large industrial enterprises extract insights from their operational data through conversational queries, with zero raw data exposure to AI training pipelines.
-
-- **Query engine** returning tables, dynamic charts, anomaly detection, key insights and follow-up question support
-- **Multi-database support** across PostgreSQL, MSSQL and MongoDB, with strictly read-only access
-- **Enterprise security** with tenant isolation, bcrypt authentication, full audit logging and white-labeling
-- **Super-admin controls** for tenant blocking, user management, per-tenant API keys (OpenAI and Anthropic) and token usage tracking
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Enterprise+AI+Systems;Building+Production-Grade+Intelligent+Systems;Conversational+AI+%7C+RAG+%7C+LLMs;Full+Stack+Development+%7C+Next.js+%7C+FastAPI;Industrial+IoT+%7C+Edge+Computing;Turning+Complex+Problems+Into+Scalable+Products" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="assets/project-industrial-iot.svg" width="100%" alt="Industrial IoT Deployment" />
-
-End-to-end Industrial IoT delivery for a pharmaceutical client, from requirements gathering and system configuration to deployment and client-side validation.
-
-- **Real-time data acquisition** and edge computing across critical production operations
-- **Protocol integration** over OPC UA, MQTT, Modbus and REST APIs, linking plant-floor machines with enterprise systems
-- **Dashboards and visualization** for production monitoring, redundancy management and historian use cases
-
-<img src="https://img.shields.io/badge/N3uron-0A66C2?style=flat-square" alt="N3uron" />
-<img src="https://img.shields.io/badge/OPC%20UA-0078D4?style=flat-square" alt="OPC UA" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-<img src="https://img.shields.io/badge/Modbus-555555?style=flat-square" alt="Modbus" />
-<img src="https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/MCA-8.09_CGPA-6D28D9?style=for-the-badge&labelColor=09090F"/>
+<img src="https://img.shields.io/badge/BCA-7.53_CGPA-4F46E5?style=for-the-badge&labelColor=09090F"/>
+<img src="https://img.shields.io/badge/AI%2FML-ENGINEER-7C3AED?style=for-the-badge&labelColor=09090F"/>
+<img src="https://img.shields.io/badge/LOCATION-Ahmedabad%2C_India-6366F1?style=for-the-badge&labelColor=09090F"/>
 
 <br/><br/>
 
-<img src="assets/project-skin-classification.svg" width="100%" alt="Skin Disease Classification using Vision Transformer" />
+<a href="mailto:mohitshekhawat3110@gmail.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohitshekhawat3110">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohitshekhawat3110@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Fine-tuned an ImageNet-pretrained Vision Transformer to classify skin conditions (acne, redness and under-eye bags) on a multi-class dataset.
+<br/><br/>
 
-- **Training pipeline** with preprocessing, augmentation and stratified dataset splitting
-- **Strong generalization** across skin condition categories, reaching 92.86% test accuracy
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/torchvision-EE4C2C?style=flat-square" alt="torchvision" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" alt="matplotlib" />
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">Certifications</h2>
-
-<table align="center">
-  <tr>
-    <th align="left">Certification</th>
-    <th align="left">Issuer</th>
-    <th align="left">Date</th>
-  </tr>
-  <tr><td>N3uron 1.22 Certified Integrator</td><td>N3uron</td><td>Jul 2026</td></tr>
-  <tr><td>Claude 101</td><td>Anthropic</td><td>Oct 2025</td></tr>
-  <tr><td>Claude Code 101</td><td>Anthropic</td><td>Oct 2025</td></tr>
-  <tr><td>Advanced Python for ML &amp; AI</td><td>CSE Pathshala</td><td>Jul 2024</td></tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">GitHub Activity</h2>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mohitshekhawat3110&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshekhawat3110&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=mohitshekhawat3110&label=PROFILE+VIEWS&color=6D28D9&style=flat-square" />
+<img src="https://img.shields.io/github/followers/mohitshekhawat3110?label=FOLLOWERS&style=flat-square&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/mohitshekhawat3110?label=TOTAL%20STARS&style=flat-square&color=7C3AED"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
-<h2 align="center">What I Enjoy</h2>
+# 01. ABOUT ME
 
-<p align="center">
-  Conversational AI &amp; LLM Applications &nbsp;·&nbsp; Secure SaaS Architecture &nbsp;·&nbsp; Industrial IoT &amp; Edge Computing<br/>
-  Data Analysis &amp; Insight Engines &nbsp;·&nbsp; Computer Vision &amp; Deep Learning &nbsp;·&nbsp; Production-Grade Intelligent Systems
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=mohitshekhawat3110&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&rank_icon=github"/>
+
+I'm **Mohit Shekhawat**, an AI/ML Engineer focused on engineering intelligent, scalable, and production-ready software systems.
+
+My work revolves around building enterprise-grade Conversational AI platforms, reasoning systems, multi-tenant SaaS architectures, and Industrial IoT solutions.
+
+I enjoy working across the entire engineering lifecycle — from architecture and backend development to AI integration, security, deployment, and user-facing applications.
+
+### Engineering Interests
+
+- **Software Engineering:** Designing maintainable, scalable, production-grade applications.
+- **Artificial Intelligence:** LLMs, Generative AI, NLP, Deep Learning, and Computer Vision.
+- **AI Engineering:** RAG pipelines, conversational reasoning, agentic workflows, and intelligent query systems.
+- **Full Stack Development:** Building modern applications using Next.js, FastAPI, and REST APIs.
+- **Product Engineering:** Transforming complex business requirements into practical technology products.
+- **Enterprise Architecture:** Multi-tenancy, RBAC, data isolation, and secure database integrations.
+
+### Open To
+
+- AI/ML Engineer Opportunities
+- Software Engineering Roles
+- Generative AI & LLM Engineering
+- Backend & Full Stack Development
+- AI Research & Product Engineering
+- Enterprise AI Collaborations
+- Open Source Contributions
+
+<br clear="right"/>
+
+---
+
+# 02. TECH STACK
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 </p>
 
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring&theme=dark" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### AI / ML & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_API-181818?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG_Systems-7C3AED?style=flat-square"/>
+</p>
+
+### Industrial IoT & Edge Computing
+
+<p>
+<img src="https://img.shields.io/badge/N3uron-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/ThingsBoard-305680?style=flat-square"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white"/>
+<img src="https://img.shields.io/badge/Modbus-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPC_UA-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Edge_Computing-7C3AED?style=flat-square"/>
+</p>
+
+### Security, Architecture & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+<img src="https://img.shields.io/badge/RBAC-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Tenant_Architecture-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/bcrypt-312E81?style=flat-square"/>
+</p>
+
+---
+
+# 03. AI / ML EXPERTISE
+
+| Domain | Proficiency | Technical Expertise |
+|:---|:---:|:---|
+| Machine Learning | Advanced | Supervised Learning, Classification, Model Evaluation |
+| Deep Learning | Advanced | Neural Networks, CNNs, Transfer Learning |
+| Natural Language Processing | Advanced | Text Processing, Language Models, Semantic Understanding |
+| Generative AI | Advanced | LLM Integration, Prompt Engineering, AI Applications |
+| Retrieval-Augmented Generation | Advanced | Context Retrieval, Knowledge Grounding, RAG Systems |
+| Conversational AI | Advanced | Natural Language Interfaces, Multi-turn Conversations |
+| AI Agents & Reasoning | Advanced | LangChain, LangGraph, Reasoning Workflows |
+| Computer Vision | Advanced | Image Classification, OpenCV, Vision Transformers |
+| Database Intelligence | Advanced | Conversational SQL, Schema Understanding, Query Generation |
+| Enterprise AI Security | Advanced | Tenant Isolation, RBAC, Secure AI Integrations |
+| Industrial AI | Intermediate | Industrial Data Acquisition, IIoT, Edge Computing |
+
+---
+
+# 04. FEATURED PROJECTS
+
+### Enterprise AI Engineering Portfolio
+
+<details>
+<summary><b>01. Conversational & Reasoning AI Platform — Multi-Tenant Enterprise SaaS</b></summary>
+
 <br/>
+
+**Category:** Enterprise AI | Conversational BI | SaaS Architecture
+
+**Timeline:** January 2025 – Present
+
+**Technology Stack:**
+
+`Python` `LangChain` `LangGraph` `Next.js` `FastAPI` `MSSQL` `PostgreSQL` `MongoDB` `OpenAI API` `Anthropic API`
+
+#### Project Overview
+
+Architected and developed a privacy-first, multi-tenant Conversational AI platform that enables enterprise organizations to interact with their operational databases using natural language.
+
+The platform transforms traditional database interactions into conversational analytical experiences, allowing business users to retrieve insights without manually writing SQL queries.
+
+#### Engineering Capabilities
+
+- Designed a multi-tenant SaaS architecture with strict tenant isolation.
+- Developed conversational database interaction workflows.
+- Integrated multiple database technologies.
+- Implemented AI-powered query generation and reasoning.
+- Developed multi-output analytical response capabilities.
+- Implemented secure authentication and authorization.
+- Built centralized super-admin and tenant administration capabilities.
+- Integrated multiple LLM providers.
+- Implemented audit logging and API key management.
+- Enforced strictly read-only database access.
+
+#### Enterprise Architecture
+
+| Attribute | Implementation |
+|:---|:---|
+| Stack | Python, LangChain, LangGraph, Next.js, MSSQL, PostgreSQL, MongoDB |
+| Scale | 3 database types; 3-tier RBAC architecture |
+| Performance | 5+ analytical output types |
+| Security | Tenant Isolation, bcrypt, RBAC, Audit Logging |
+| AI Integration | OpenAI API, Anthropic API |
+| Access Control | Super Admin, Tenant Admin, Tenant User |
+| Impact | Conversational access to enterprise operational data |
+
+#### Core Features
+
+| Feature | Description |
+|:---|:---|
+| Conversational Query Engine | Natural language interaction with enterprise databases |
+| Dynamic Analytics | Tabular data, charts, and analytical insights |
+| Anomaly Detection | Identification of unusual patterns in operational data |
+| Follow-up Intelligence | Context-aware conversational follow-ups |
+| Multi-Tenant SaaS | Isolated enterprise environments |
+| Role-Based Access | Three-level permission architecture |
+| Tenant Management | Tenant blocking and user management |
+| API Management | Per-tenant OpenAI and Anthropic API key management |
+| Usage Tracking | Token usage monitoring |
+| Audit Logging | Centralized activity tracking |
+| Database Security | Read-only database connectivity |
+| White Labeling | Enterprise branding customization |
+
+#### Engineering Impact
+
+Built an enterprise-oriented AI architecture focused on privacy, scalability, secure database access, and conversational business intelligence.
+
+**Repository:** Private / Not publicly linked.
+
+</details>
+
+<details>
+<summary><b>02. Skin Disease Classification Using Vision Transformer</b></summary>
+
+<br/>
+
+**Category:** Deep Learning | Computer Vision | Medical Image Classification
+
+**Timeline:** March 2025
+
+**Technology Stack:**
+
+`Python` `PyTorch` `torchvision` `OpenCV` `Matplotlib` `Vision Transformer`
+
+#### Project Overview
+
+Developed a computer vision classification system using a pretrained Vision Transformer architecture to classify skin-related conditions.
+
+Fine-tuned an ImageNet-pretrained model on a multi-class dataset to improve classification performance and generalization.
+
+#### Engineering Capabilities
+
+- Implemented a Vision Transformer-based classification pipeline.
+- Applied transfer learning using pretrained weights.
+- Developed image preprocessing workflows.
+- Implemented data augmentation techniques.
+- Used stratified dataset splitting.
+- Evaluated model performance using test accuracy.
+
+#### Technical Metrics
+
+| Attribute | Implementation |
+|:---|:---|
+| Stack | PyTorch, torchvision, OpenCV, Matplotlib |
+| Model | Vision Transformer |
+| Approach | Transfer Learning |
+| Dataset | Multi-class skin condition dataset |
+| Performance | 92.86% Test Accuracy |
+| Security | Not applicable to this model-focused project |
+| Impact | Automated image-based skin condition classification |
+
+#### Classification Categories
+
+- Acne
+- Redness
+- Under-eye Bags
+
+#### Engineering Impact
+
+Demonstrated practical experience in deep learning, transformer-based vision architectures, image preprocessing, model fine-tuning, and classification evaluation.
+
+**Repository:** Not publicly linked.
+
+</details>
+
+---
+
+# 05. PROFESSIONAL EXPERIENCE
+
+### Implementation Engineer
+
+**Dynamic Smart Edge (XSmartEdge)**
+
+`September 2025 – Present` | Ahmedabad, Gujarat, India
+
+Working on Industrial IoT implementation, industrial connectivity, edge computing, real-time monitoring, and enterprise visualization solutions.
+
+#### Scope of Work
+
+- Deployed and configured the N3uron Industrial IoT platform for a pharmaceutical client.
+- Connected 10+ plant-floor machines for real-time data acquisition and monitoring.
+- Integrated four industrial communication protocols: OPC UA, MQTT, Modbus, and REST APIs.
+- Designed real-time dashboards and visualization modules.
+- Worked on production monitoring, redundancy management, and historian use cases.
+- Contributed to end-to-end IIoT solution delivery.
+- Participated in requirements gathering, configuration, deployment, and client-side validation.
+
+**Technology Stack:**
+
+`N3uron` `MQTT` `Modbus` `OPC UA` `REST APIs` `Industrial IoT` `Edge Computing`
+
+---
+
+### Web Development Intern
+
+**Take 2 Technologies**
+
+`July 2024 – August 2024` | Bhilwara, Rajasthan, India
+
+Contributed to web application development, backend engineering, API development, and database integration.
+
+#### Scope of Work
+
+- Developed a Spring Boot-based web application consolidating data from 3+ sources.
+- Built two secure REST APIs with data-driven backend logic.
+- Developed frontend interfaces and backend application workflows.
+- Implemented MVC architecture.
+- Collaborated with clients to gather requirements and deliver technical solutions.
+
+**Technology Stack:**
+
+`Java` `Spring Boot` `MySQL` `REST APIs` `MVC Architecture`
+
+---
+
+# 06. EDUCATION & ACHIEVEMENTS
 
 <div align="center">
 
-<i>"The best interface to any system is a conversation."</i>
-
-<br/>
-
-<a href="mailto:mohitshekhawat3110@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-818CF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+| Recognition | Details |
+|:---|:---|
+| MCA | Master of Computer Applications — Lovely Professional University |
+| MCA Academic Performance | 8.09 CGPA |
+| BCA | Bachelor of Computer Applications — Sangam University |
+| BCA Academic Performance | 7.53 CGPA |
+| Enterprise AI Engineering | Sole architect of a multi-tenant Conversational AI SaaS platform |
+| AI Model Performance | Achieved 92.86% test accuracy using Vision Transformer |
+| Industrial IoT Implementation | Connected 10+ pharmaceutical plant-floor machines |
+| Industrial Connectivity | Integrated 4 industrial communication protocols |
+| Enterprise SaaS Architecture | Designed 3-tier RBAC and multi-tenant access control |
 
 </div>
+
+---
+
+# 07. CERTIFICATIONS
+
+### N3uron
+
+<p>
+<img src="https://img.shields.io/badge/N3uron-1.22_Certified_Integrator-6D28D9?style=for-the-badge&logoColor=white"/>
+</p>
+
+- N3uron 1.22 Certified Integrator — July 2026
+
+### Anthropic
+
+<p>
+<img src="https://img.shields.io/badge/Anthropic-Claude_101-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anthropic-Claude_Code_101-7C3AED?style=for-the-badge"/>
+</p>
+
+- Claude 101 — October 2025
+- Claude Code 101 — October 2025
+
+### CSE Pathshala
+
+<p>
+<img src="https://img.shields.io/badge/CSE_Pathshala-Advanced_Python_for_ML_%26_AI-6D28D9?style=for-the-badge"/>
+</p>
+
+- Advanced Python for ML & AI — July 2024
+
+### Coursera
+
+<p>
+<img src="https://img.shields.io/badge/Coursera-Python_GUI_with_Tkinter-4F46E5?style=for-the-badge&logo=coursera&logoColor=white"/>
+</p>
+
+- Build a Python GUI with Tkinter — June 2024
+
+### Udemy
+
+<p>
+<img src="https://img.shields.io/badge/Udemy-Python_Data_Analysis-7C3AED?style=for-the-badge&logo=udemy&logoColor=white"/>
+</p>
+
+- Python for Data Analysis & Visualization — January 2024
+
+---
+
+# 08. CODING PROFILES
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Computer_Science-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 09. GITHUB ANALYTICS
+
+<div align="center">
+
+### Overall GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitshekhawat3110&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&ring_color=7C3AED"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitshekhawat3110&theme=transparent&hide_border=true&background=09090F&stroke=312E81&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=818CF8"/>
+
+### Most Used Technologies
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshekhawat3110&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
+
+</div>
+
+---
+
+# 10. GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitshekhawat3110&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+
+</div>
+
+---
+
+# 11. CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshekhawat3110&bg_color=09090F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+# 12. CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mohitshekhawat3110/mohitshekhawat3110/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+# 13. CURRENT FOCUS
+
+```yaml
+name: Mohit Shekhawat
+
+role:
+  - AI/ML Engineer
+  - Software Engineer
+  - Industrial IoT Engineer
+
+learning:
+  - Advanced LLM Architectures
+  - Agentic AI Systems
+  - LangGraph
+  - Retrieval Augmented Generation
+  - Production AI Engineering
+  - Scalable SaaS Architecture
+
+building:
+  - Enterprise Conversational AI
+  - Multi-Tenant SaaS Platforms
+  - Intelligent Database Systems
+  - Industrial IoT Solutions
+  - AI-Powered Applications
+
+exploring:
+  - AI Agents & Autonomous Workflows
+  - Advanced Reasoning Systems
+  - Computer Vision
+  - Enterprise AI Security
+  - Edge Intelligence
+  - Cloud-Native Architectures
+
+open_to:
+  - AI/ML Engineering
+  - Generative AI
+  - Software Engineering
+  - Full Stack Development
+  - Backend Engineering
+  - Technical Collaborations
+  - Open Source Projects
+
+philosophy: "Build intelligent systems. Engineer for scale. Design for impact."
