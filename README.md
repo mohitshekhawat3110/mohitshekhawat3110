@@ -27,10 +27,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohitshekhawat3110&label=PROFILE+VIEWS&color=6D28D9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/mohitshekhawat3110?label=FOLLOWERS&style=flat-square&color=4F46E5"/>
-<img src="https://img.shields.io/github/stars/mohitshekhawat3110?label=TOTAL%20STARS&style=flat-square&color=7C3AED"/>
-
 </div>
 
 ---
@@ -131,23 +127,23 @@ I enjoy working across the entire engineering lifecycle — from architecture an
 
 ---
 
-# 03. AI / ML EXPERTISE
+# 03. AI / ML ENGINEERING
 
-| Domain | Proficiency | Technical Expertise |
-|:---|:---:|:---|
-| Machine Learning | Advanced | Supervised Learning, Classification, Model Evaluation |
-| Deep Learning | Advanced | Neural Networks, CNNs, Transfer Learning |
-| Natural Language Processing | Advanced | Text Processing, Language Models, Semantic Understanding |
-| Generative AI | Advanced | LLM Integration, Prompt Engineering, AI Applications |
-| Retrieval-Augmented Generation | Advanced | Context Retrieval, Knowledge Grounding, RAG Systems |
-| Conversational AI | Advanced | Natural Language Interfaces, Multi-turn Conversations |
-| AI Agents & Reasoning | Advanced | LangChain, LangGraph, Reasoning Workflows |
-| Computer Vision | Advanced | Image Classification, OpenCV, Vision Transformers |
-| Database Intelligence | Advanced | Conversational SQL, Schema Understanding, Query Generation |
-| Enterprise AI Security | Advanced | Tenant Isolation, RBAC, Secure AI Integrations |
-| Industrial AI | Intermediate | Industrial Data Acquisition, IIoT, Edge Computing |
+Focused on building practical AI applications, integrating modern language models, and developing intelligent software systems.
 
----
+### Core Areas
+
+| Domain | Technologies & Focus |
+|:---|:---|
+| **Machine Learning** | Python, Scikit-learn, Classification |
+| **Deep Learning** | PyTorch, Neural Networks, Transfer Learning |
+| **Generative AI** | LLMs, OpenAI API, Anthropic API |
+| **LLM Frameworks** | LangChain, LangGraph |
+| **Conversational AI** | Natural Language Interfaces, AI-powered Applications |
+| **RAG Systems** | Retrieval-Augmented Generation, Knowledge Retrieval |
+| **Computer Vision** | Vision Transformers, OpenCV, Image Classification |
+| **AI + Database Integration** | Conversational SQL, Schema Understanding |
+| **Enterprise AI** | Multi-Tenant Architecture, RBAC, Secure AI Integration |
 
 # 04. FEATURED PROJECTS
 
@@ -280,51 +276,114 @@ Demonstrated practical experience in deep learning, transformer-based vision arc
 
 # 05. PROFESSIONAL EXPERIENCE
 
-### Implementation Engineer
+<div align="center">
+
+### PROFESSIONAL JOURNEY
+
+<sub>Building intelligent systems, engineering industrial solutions, and delivering scalable technology.</sub>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/01-6D28D9?style=flat-square"/> Implementation Engineer
 
 **Dynamic Smart Edge (XSmartEdge)**
 
-`September 2025 – Present` | Ahmedabad, Gujarat, India
+<img src="https://img.shields.io/badge/September_2025--Present-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ahmedabad_India-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Industrial_IoT-4F46E5?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Professional Overview**
 
 Working on Industrial IoT implementation, industrial connectivity, edge computing, real-time monitoring, and enterprise visualization solutions.
 
-#### Scope of Work
+**Key Responsibilities & Contributions**
 
-- Deployed and configured the N3uron Industrial IoT platform for a pharmaceutical client.
-- Connected 10+ plant-floor machines for real-time data acquisition and monitoring.
-- Integrated four industrial communication protocols: OPC UA, MQTT, Modbus, and REST APIs.
-- Designed real-time dashboards and visualization modules.
-- Worked on production monitoring, redundancy management, and historian use cases.
-- Contributed to end-to-end IIoT solution delivery.
-- Participated in requirements gathering, configuration, deployment, and client-side validation.
+| Area | Engineering Contributions |
+|:---|:---|
+| **IIoT Deployment** | Deployed and configured N3uron Industrial IoT platform for a pharmaceutical client. |
+| **Machine Connectivity** | Connected 10+ plant-floor machines for real-time data acquisition and monitoring. |
+| **Protocol Integration** | Integrated OPC UA, MQTT, Modbus, and REST APIs. |
+| **Dashboard Engineering** | Designed real-time dashboards and visualization modules. |
+| **Industrial Monitoring** | Worked on production monitoring, redundancy management, and historian use cases. |
+| **Solution Delivery** | Contributed to requirements gathering, configuration, deployment, and client-side validation. |
 
-**Technology Stack:**
+**Technology Stack**
 
-`N3uron` `MQTT` `Modbus` `OPC UA` `REST APIs` `Industrial IoT` `Edge Computing`
+<img src="https://img.shields.io/badge/N3uron-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/MQTT-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Modbus-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPC_UA-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Edge_Computing-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Industrial_IoT-6D28D9?style=flat-square"/>
 
----
+</td>
+</tr>
+</table>
 
-### Web Development Intern
+<br/>
+
+<table width="100%">
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/02-4F46E5?style=flat-square"/> Web Development Intern
 
 **Take 2 Technologies**
 
-`July 2024 – August 2024` | Bhilwara, Rajasthan, India
+<img src="https://img.shields.io/badge/July_2024--August_2024-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bhilwara_India-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software_Development-6D28D9?style=flat-square"/>
 
-Contributed to web application development, backend engineering, API development, and database integration.
+</td>
+</tr>
+<tr>
+<td>
 
-#### Scope of Work
+**Professional Overview**
 
-- Developed a Spring Boot-based web application consolidating data from 3+ sources.
-- Built two secure REST APIs with data-driven backend logic.
-- Developed frontend interfaces and backend application workflows.
-- Implemented MVC architecture.
-- Collaborated with clients to gather requirements and deliver technical solutions.
+Worked on web application development, backend engineering, database integration, and REST API development.
 
-**Technology Stack:**
+**Key Responsibilities & Contributions**
 
-`Java` `Spring Boot` `MySQL` `REST APIs` `MVC Architecture`
+| Area | Engineering Contributions |
+|:---|:---|
+| **Application Development** | Built a Spring Boot-based web application consolidating data from 3+ sources. |
+| **Backend Engineering** | Developed two secure REST APIs with data-driven backend logic. |
+| **Frontend Development** | Created intuitive frontend interfaces to improve application usability. |
+| **Database Integration** | Worked with MySQL for application data management. |
+| **Client Collaboration** | Gathered requirements and delivered tailored technical solutions. |
 
----
+**Technology Stack**
+
+<img src="https://img.shields.io/badge/Java-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring_Boot-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/MVC_Architecture-4F46E5?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EXPERIENCE-INDUSTRIAL_IOT_%7C_AI_%7C_SOFTWARE_ENGINEERING-6D28D9?style=for-the-badge"/>
+
+</div>
 
 # 06. EDUCATION & ACHIEVEMENTS
 
@@ -416,27 +475,9 @@ Contributed to web application development, backend engineering, API development
 
 ---
 
-# 09. GITHUB ANALYTICS
-
-<div align="center">
-
-### Overall GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitshekhawat3110&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&ring_color=7C3AED"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitshekhawat3110&theme=transparent&hide_border=true&background=09090F&stroke=312E81&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=818CF8"/>
-
-### Most Used Technologies
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshekhawat3110&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=C4B5FD&langs_count=8"/>
-
-</div>
-
----
 
 
-
-# 10. CONTRIBUTION ACTIVITY
+# 09. CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -446,7 +487,7 @@ Contributed to web application development, backend engineering, API development
 
 ---
 
-# 11. CONTRIBUTION SNAKE
+# 10. CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -456,7 +497,7 @@ Contributed to web application development, backend engineering, API development
 
 ---
 
-# 12. CURRENT FOCUS
+# 11. CURRENT FOCUS
 
 ```yaml
 name: Mohit Shekhawat
