@@ -15,9 +15,6 @@
 
 <br/><br/>
 
-<a href="mailto:mohitshekhawat3110@gmail.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/mohitshekhawat3110">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -437,17 +434,9 @@ Contributed to web application development, backend engineering, API development
 
 ---
 
-# 10. GITHUB TROPHIES
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohitshekhawat3110&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
-
-</div>
-
----
-
-# 11. CONTRIBUTION ACTIVITY
+# 10. CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -457,7 +446,7 @@ Contributed to web application development, backend engineering, API development
 
 ---
 
-# 12. CONTRIBUTION SNAKE
+# 11. CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -467,7 +456,7 @@ Contributed to web application development, backend engineering, API development
 
 ---
 
-# 13. CURRENT FOCUS
+# 12. CURRENT FOCUS
 
 ```yaml
 name: Mohit Shekhawat
