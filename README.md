@@ -33,7 +33,6 @@
 
 # 01. ABOUT ME
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=mohitshekhawat3110&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=818CF8&text_color=C4B5FD&rank_icon=github"/>
 
 I'm **Mohit Shekhawat**, an AI/ML Engineer focused on engineering intelligent, scalable, and production-ready software systems.
 
@@ -506,46 +505,69 @@ Worked on web application development, backend engineering, database integration
     />
   </picture>
 </p>
-# 11. CURRENT FOCUS
 
-```yaml
-name: Mohit Shekhawat
+# 11. CURRENT ENGINEERING FOCUS
 
-role:
-  - AI/ML Engineer
-  - Software Engineer
-  - Industrial IoT Engineer
+<div align="center">
 
-learning:
-  - Advanced LLM Architectures
-  - Agentic AI Systems
-  - LangGraph
-  - Retrieval Augmented Generation
-  - Production AI Engineering
-  - Scalable SaaS Architecture
+### WHAT I'M WORKING ON
 
-building:
-  - Enterprise Conversational AI
-  - Multi-Tenant SaaS Platforms
-  - Intelligent Database Systems
-  - Industrial IoT Solutions
-  - AI-Powered Applications
+Building practical solutions at the intersection of Artificial Intelligence, Software Engineering, and Industrial Technology.
 
-exploring:
-  - AI Agents & Autonomous Workflows
-  - Advanced Reasoning Systems
-  - Computer Vision
-  - Enterprise AI Security
-  - Edge Intelligence
-  - Cloud-Native Architectures
+<br/>
 
-open_to:
-  - AI/ML Engineering
-  - Generative AI
-  - Software Engineering
-  - Full Stack Development
-  - Backend Engineering
-  - Technical Collaborations
-  - Open Source Projects
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
 
-philosophy: "Build intelligent systems. Engineer for scale. Design for impact."
+<img src="https://img.shields.io/badge/01-6D28D9?style=for-the-badge"/>
+
+### AI ENGINEERING
+
+Conversational AI, LLM-powered applications, RAG systems, and intelligent database interactions.
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-312E81?style=flat-square"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-4F46E5?style=for-the-badge"/>
+
+### SOFTWARE ENGINEERING
+
+Developing scalable backend systems, full-stack applications, and multi-tenant SaaS products.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js-312E81?style=flat-square"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-7C3AED?style=for-the-badge"/>
+
+### INDUSTRIAL TECHNOLOGY
+
+Working with industrial connectivity, edge computing, real-time monitoring, and IIoT solutions.
+
+<br/>
+
+<img src="https://img.shields.io/badge/N3uron-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/MQTT-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Modbus-312E81?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING%20%7C%20BUILDING%20%7C%20IMPROVING-6D28D9?style=for-the-badge"/>
+
+</div>
