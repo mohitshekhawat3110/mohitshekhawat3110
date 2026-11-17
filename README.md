@@ -328,6 +328,43 @@ Demonstrated practical experience in deep learning, transformer-based vision arc
 **Professional Overview**
 
 Working on Industrial IoT implementation, industrial connectivity, edge computing, real-time monitoring, and enterprise visualization solutions.
+<br/>
+
+### KEY PRODUCT ENGINEERING PROJECT
+
+<img src="https://img.shields.io/badge/ENTERPRISE_AI-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SAAS_PLATFORM-4F46E5?style=for-the-badge"/>
+
+#### Conversational & Reasoning AI Platform
+
+Designed and developed an enterprise-grade, privacy-first Conversational AI SaaS platform for Dynamic Smart Edge, enabling organizations to interact with their operational databases using natural language.
+
+**Key Engineering Contributions**
+
+- Architected a multi-tenant SaaS platform with dedicated tenant isolation.
+- Developed AI-powered database interaction using LangChain and LangGraph.
+- Integrated MSSQL, PostgreSQL, and MongoDB.
+- Implemented natural language to SQL query generation and execution.
+- Built analytical responses supporting tables, dynamic charts, anomaly detection, and contextual follow-up questions.
+- Implemented 3-tier Role-Based Access Control (Super Admin, Tenant Admin, Tenant User).
+- Developed secure authentication, audit logging, and tenant-level API key management.
+- Integrated OpenAI and Anthropic APIs.
+- Implemented strictly read-only database access.
+
+**Technology Stack**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,nextjs,fastapi,mongodb&theme=dark"/>
+</p>
+
+**Python** &nbsp;**Next.js** &nbsp;**FastAPI** &nbsp;**MongoDB** &nbsp;
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Anthropic-181818?style=flat-square"/>
 
 **Key Responsibilities & Contributions**
 
