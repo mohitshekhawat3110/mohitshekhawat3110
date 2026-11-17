@@ -156,52 +156,55 @@ My work sits where enterprise operational data meets conversational intelligence
 
 <h2 align="center">Featured Projects</h2>
 
-<table>
-  <tr>
-    <td width="30%" valign="top">
-      <b>Conversational &amp; Reasoning AI Platform</b><br/>
-      <sub>Multi-tenant enterprise SaaS</sub><br/><br/>
-      <sub>Python · LangChain · LangGraph · Next.js · MSSQL · MongoDB · OpenAI API · Anthropic API</sub>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Privacy-first platform that lets large industrial firms extract insights from operational data through conversational queries, with zero raw data exposure to AI training pipelines</li>
-        <li>Supports <b>3 database types</b>: PostgreSQL, MSSQL and MongoDB</li>
-        <li>Query engine with <b>5+ output types</b>: tables, dynamic charts, anomaly detection, key insights and follow-up questions</li>
-        <li><b>3-tier RBAC</b> (Super Admin, Tenant Admin, Tenant User) with tenant isolation, bcrypt authentication, audit logging and white-labeling</li>
-        <li>Super-admin controls: tenant blocking, user management, per-tenant API keys, token usage tracking and strictly read-only database access</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top">
-      <b>Industrial IoT Deployment</b><br/>
-      <sub>Pharmaceutical plant</sub><br/><br/>
-      <sub>N3uron · OPC UA · MQTT · Modbus · REST APIs</sub>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Connected <b>10+ plant-floor machines</b> for real-time data acquisition, monitoring and edge computing</li>
-        <li>Integrated <b>4 industrial protocols</b> to enable communication between machines and enterprise systems</li>
-        <li>Delivered real-time dashboards for production monitoring, redundancy management and historian use cases</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top">
-      <b>Skin Disease Classification</b><br/>
-      <sub>Vision Transformer</sub><br/><br/>
-      <sub>PyTorch · torchvision · OpenCV · matplotlib</sub>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Fine-tuned an ImageNet-pretrained Vision Transformer to classify acne, redness and under-eye bags</li>
-        <li>Achieved <b>92.86% test accuracy</b> on a multi-class dataset</li>
-        <li>Applied preprocessing, augmentation and stratified splitting to improve robustness</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<img src="assets/project-conversational-ai.svg" width="100%" alt="Conversational and Reasoning AI Platform" />
+
+Privacy-first platform that lets large industrial enterprises extract insights from their operational data through conversational queries, with zero raw data exposure to AI training pipelines.
+
+- **Query engine** returning tables, dynamic charts, anomaly detection, key insights and follow-up question support
+- **Multi-database support** across PostgreSQL, MSSQL and MongoDB, with strictly read-only access
+- **Enterprise security** with tenant isolation, bcrypt authentication, full audit logging and white-labeling
+- **Super-admin controls** for tenant blocking, user management, per-tenant API keys (OpenAI and Anthropic) and token usage tracking
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Anthropic%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic API" />
+
+<br/><br/>
+
+<img src="assets/project-industrial-iot.svg" width="100%" alt="Industrial IoT Deployment" />
+
+End-to-end Industrial IoT delivery for a pharmaceutical client, from requirements gathering and system configuration to deployment and client-side validation.
+
+- **Real-time data acquisition** and edge computing across critical production operations
+- **Protocol integration** over OPC UA, MQTT, Modbus and REST APIs, linking plant-floor machines with enterprise systems
+- **Dashboards and visualization** for production monitoring, redundancy management and historian use cases
+
+<img src="https://img.shields.io/badge/N3uron-0A66C2?style=flat-square" alt="N3uron" />
+<img src="https://img.shields.io/badge/OPC%20UA-0078D4?style=flat-square" alt="OPC UA" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+<img src="https://img.shields.io/badge/Modbus-555555?style=flat-square" alt="Modbus" />
+<img src="https://img.shields.io/badge/REST%20APIs-30363D?style=flat-square" alt="REST APIs" />
+
+<br/><br/>
+
+<img src="assets/project-skin-classification.svg" width="100%" alt="Skin Disease Classification using Vision Transformer" />
+
+Fine-tuned an ImageNet-pretrained Vision Transformer to classify skin conditions (acne, redness and under-eye bags) on a multi-class dataset.
+
+- **Training pipeline** with preprocessing, augmentation and stratified dataset splitting
+- **Strong generalization** across skin condition categories, reaching 92.86% test accuracy
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/torchvision-EE4C2C?style=flat-square" alt="torchvision" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square" alt="matplotlib" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
