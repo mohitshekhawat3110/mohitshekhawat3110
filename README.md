@@ -300,9 +300,7 @@ Demonstrated practical experience in deep learning, transformer-based vision arc
 
 <div align="center">
 
-### PROFESSIONAL JOURNEY
-
-<sub>Building intelligent systems, engineering industrial solutions, and delivering scalable technology.</sub>
+<sub><h4>Building intelligent systems, engineering industrial solutions, and delivering scalable technology.</h4></sub>
 
 </div>
 
